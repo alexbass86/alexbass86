@@ -1,0 +1,14 @@
+[
+  {
+    "role": "user",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  },
+  {
+    "role": "test",
+    "resource": "User",
+    "action": "read:own",
+    "attributes": "*"
+  }
+]
